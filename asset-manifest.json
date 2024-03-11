@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/view-stone/static/css/main.04546599.css",
+    "main.js": "/view-stone/static/js/main.ffc6c85d.js",
+    "static/media/bootstrap.min.css.map": "/view-stone/static/media/bootstrap.min.css.24ed20e8476698dafba3.map",
+    "index.html": "/view-stone/index.html",
+    "main.04546599.css.map": "/view-stone/static/css/main.04546599.css.map",
+    "main.ffc6c85d.js.map": "/view-stone/static/js/main.ffc6c85d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04546599.css",
+    "static/js/main.ffc6c85d.js"
+  ]
+}
